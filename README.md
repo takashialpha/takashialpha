@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takashialpha
-- 👀 I’m interested in ...
+- 👀 I’m interested in nginx
 - 🌱 I’m currently learning: rust, docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: takashialpha@protonmail.com
