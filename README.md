@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/takashialpha?style=social)](https://github.com/takashialpha)
 [![Email](https://img.shields.io/badge/email-takashialpha%40protonmail.com-blue)](mailto:takashialpha@protonmail.com)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftakashialpha.xyz)](https://takashialpha.xyz)
+![Static Badge](https://img.shields.io/badge/WebSite%20%E2%80%94https%3A%2F%2Ftakashialpha.xyz)
 
 ## About Me
 Hi, I'm **takashialpha**. I'm passionate about technology, automation, and self-hosting solutions. My main focus is on leveraging open-source tools to create efficient systems.
