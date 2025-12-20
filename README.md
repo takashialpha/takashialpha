@@ -18,8 +18,5 @@ Hi, I'm **takashialpha**. I'm passionate about technology, automation, and self-
 - Exploring open-source projects and contributing when possible.
 - Continuous learning in systems programming and infrastructure management.
 
-## Website
-Visit my website: [https://takashialpha.xyz](https://takashialpha.xyz)
-
 ## Let's Connect
 Feel free to reach out to me via email at [takashialpha@protonmail.com](mailto:takashialpha@protonmail.com) or explore my repositories to see what I'm working on. Always open to collaborations and interesting discussions!
