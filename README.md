@@ -8,7 +8,7 @@
 Hi, I'm **takashialpha**. I'm passionate about technology, automation, and self-hosting solutions. My main focus is on leveraging open-source tools to create efficient systems.
 
 ## What I Do
-- **Programming**: Rust, Python (beginner level), and Shell Scripting.
+- **Programming**: Rust systems programming, Low level web applications and Shell Scripting.
 - **DevOps**: Expertise in Docker and containerized environments.
 - **Linux Enthusiast**: Deep knowledge of Linux systems and self-hosted server management.
 - **Self-Hosting**: Running personal servers for projects and experiments.
