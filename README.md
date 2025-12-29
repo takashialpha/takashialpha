@@ -8,29 +8,19 @@
 
 ---
 
-## Philosophy
+## Overview
 
-I build systems where abstractions are deliberate and execution paths remain transparent. My work centers on Rust, Linux infrastructure, and self-hosted environments—domains where precision and architectural clarity are non-negotiable.
+I build systems where abstractions are deliberate and execution paths remain transparent. My work centers on Rust, Linux infrastructure, and self-hosted environments—domains.
 
-Good software communicates intent explicitly, resists accidental complexity, and remains intelligible under scrutiny. Code is a medium of communication first, a set of instructions second.
+Good software communicates intent explicitly, resists accidental complexity, and remains intelligible under scrutiny. Code is a medium of communication for humans first, a set of instructions for machines second, even on low-level setups.
 
 ---
 
-## Technical Focus
-
-**Systems Programming** • Low-level tooling and daemons in Rust  
-**Infrastructure** • Self-hosted Linux environments and operational workflows  
-**Architecture** • Designs that prioritize correctness, maintainability, and structural coherence
+## Technological Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git"/>
 </div>
-
----
-
-## Current Work
-
-Investigating runtime internals and refining operational workflows. Active contributions prioritize deliberate architecture and long-term sustainability—see pinned repositories for representative work.
 
 ---
 
