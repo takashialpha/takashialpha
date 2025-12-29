@@ -32,6 +32,8 @@ Good software communicates intent explicitly, resists accidental complexity, and
 
 **[audium]** – A command-line audio player built for efficiency.
 
+- I'm also active on my starred/fixed repositories.
+
 ---
 
 ## Contact
