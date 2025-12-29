@@ -1,88 +1,41 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=takashialpha.takashialpha" alt="visitors">
+</div>
+
+<div align="center">
+  <img src="https://github.com/takashialpha/takashialpha/blob/1cc57c7d7ba19315b786942b7946f372617aadf2/banner.png" alt="banner" width="1200"/>
+</div>
+
 ---
-
-<h1 align="center">takashialpha</h1>
-
-<p align="center">
-  <em>Rust systems · Linux · Self-hosted infrastructure</em><br>
-  Writing precise, legible, and intentional systems
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/takashialpha?style=social" />
-  <a href="mailto:takashialpha@protonmail.com">
-    <img src="https://img.shields.io/badge/email-takashialpha%40protonmail.com-blue" />
-  </a>
-</p>
 
 ## Overview
 
-I work on **low-level systems and infrastructure**, with a focus on correctness, clarity, and architectural coherence.
-My projects are built around **Rust**, **Linux**, and **self-hosted environments**, where understanding the full execution path is a requirement rather than a convenience.
+I build systems with deliberate abstractions and transparent execution paths. My work focuses on Rust, Linux infrastructure, and self-hosted environments.
 
-I value systems that are well-written: software whose structure communicates intent, resists accidental complexity, and remains readable over time.
-
----
-
-## Technical Focus
-
-<table>
-  <tr>
-    <td><strong>Primary language</strong></td>
-    <td>Rust — systems programming, services, internal tooling</td>
-  </tr>
-  <tr>
-    <td><strong>Scripting</strong></td>
-    <td>Bash — automation, orchestration, operational workflows</td>
-  </tr>
-  <tr>
-    <td><strong>Operating system</strong></td>
-    <td>Linux — development, servers, deployment</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Docker — containerized services and reproducible environments</td>
-  </tr>
-</table>
+Good software communicates intent explicitly, resists accidental complexity, and remains intelligible under scrutiny. Code is a medium of communication for humans first, a set of instructions for machines second, even on low-level setups.
 
 ---
 
-## What I Build
+## Technological Skills
 
-* Low-level services and utilities with explicit control over behavior
-* Self-hosted systems designed for durability and observability
-* Infrastructure that emphasizes clear boundaries and predictable failure modes
-
-I primarily contribute to **my own repositories**, where architectural discipline and long-term consistency can be preserved.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git"/>
+</div>
 
 ---
 
-## Focus & Contributions
+## Highlighted Projects
 
-I’m currently **studying systems programming and infrastructure design**, concentrating on projects that deepen my understanding of runtime internals and operational workflows.
-I mainly contribute to my **pinned or starred repositories**, ensuring every contribution reflects deliberate architecture and maintainable design.
+**[motmot]** – A powerful http3 server designed for simplicity and speed.
 
----
+**[core_shell]** – A basic shell that prioritizes a modern terminal experience and performance
 
-## Interests
-
-* Systems programming and runtime internals
-* Infrastructure and service architecture
-* Automation as a tool for correctness
-* Software that remains comprehensible
-
----
-
-## Design Principles
-
-* Code is a medium of communication
-* Structure should make intent explicit
-* Abstractions must justify their existence
-* A system is defined by its failure semantics
+**[audium]** – A command-line audio player built for efficiency.
 
 ---
 
 ## Contact
 
-**Email**: [takashialpha@protonmail.com](mailto:takashialpha@protonmail.com)
+[![Email](https://img.shields.io/badge/email-takashialpha@protonmail.com-blue?style=for-the-badge)](mailto:takashialpha@protonmail.com)
 
-<sub>The repositories speak for themselves.</sub>
+Always available for discussion on systems architecture, infrastructure design, and Rust projects.
