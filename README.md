@@ -1,40 +1,51 @@
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=takashialpha.takashialpha" alt="visitors">
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=takashialpha.takashialpha" alt="visitors">
 </div>
 
 <div align="center">
   <img src="https://github.com/takashialpha/takashialpha/blob/1cc57c7d7ba19315b786942b7946f372617aadf2/banner.png" alt="banner" width="1200"/>
-  
-  <h2>About Me</h2>
-  
-  <p>I specialize in low-level systems and infrastructure, with a focus on correctness, clarity, and architectural coherence. My projects revolve around Rust, Linux, and self-hosted environments—where understanding the full execution path is essential.</p>
-  
-  <p>I value well-structured software: code that communicates intent clearly, resists unnecessary complexity, and stays maintainable over time.</p>
 </div>
 
-### Experience
-Extensive hands-on work with personal Rust projects (tools, daemons, and more), including self-hosting on Linux servers.
+---
 
-### Tech Stack
+## Philosophy
+
+I build systems where abstractions are deliberate and execution paths remain transparent. My work centers on Rust, Linux infrastructure, and self-hosted environments—domains where precision and architectural clarity are non-negotiable.
+
+Good software communicates intent explicitly, resists accidental complexity, and remains intelligible under scrutiny. Code is a medium of communication first, a set of instructions second.
+
+---
+
+## Technical Focus
+
+**Systems Programming** • Low-level tooling and daemons in Rust  
+**Infrastructure** • Self-hosted Linux environments and operational workflows  
+**Architecture** • Designs that prioritize correctness, maintainability, and structural coherence
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git"/>
-
+  <img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git"/>
 </div>
 
-### Design Principles
-- Code as a medium of communication
-- Structure that makes intent explicit
-- Resistance to accidental complexity
+---
 
-<div align="center">
+## Current Work
 
-### Working On
-Currently diving deeper into systems programming and infrastructure design, exploring runtime internals and operational workflows. Contributions focus on pinned or starred repositories, prioritizing deliberate architecture and long-term maintainability.
+Investigating runtime internals and refining operational workflows. Active contributions prioritize deliberate architecture and long-term sustainability—see pinned repositories for representative work.
 
-### Contact
+---
+
+## Highlighted Projects
+
+**[motmot]** – A powerful http3 server made to be simple and fast.
+
+**[core_shell]** – A basic shell that focuses on modern terminal experience with speediness.
+
+**[audium]** – A music app for terminal: aims to be your command-line audio player.
+
+---
+
+## Contact
+
 [![Email](https://img.shields.io/badge/email-takashialpha@protonmail.com-blue?style=for-the-badge)](mailto:takashialpha@protonmail.com)
 
-I'm always active—feel free to reach out.
+Always available for discussion on systems architecture, infrastructure design, and Rust projects.
