@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/takashialpha/takashialpha/blob/1cc57c7d7ba19315b786942b7946f372617aadf2/banner2.png" alt="banner" width="1200"/>
+  <img src="https://github.com/takashialpha/takashialpha/blob/ad4e82650de37305da4447263e3b3e73ca31c282/banner2.png" alt="banner" width="1200"/>
 </div>
 
 ---
