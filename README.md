@@ -14,7 +14,7 @@ I have a huge experience coding my own rust projects and occasionally self-hosti
 
 <h3>My main technologies</h3>
 
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
+<img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git"/>
 
 <h3>Design principles</h3>
 Code is a medium of communication;
