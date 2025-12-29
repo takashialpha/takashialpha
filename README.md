@@ -10,7 +10,7 @@
 
 ## Overview
 
-I build systems where abstractions are deliberate and execution paths remain transparent. My work centers on Rust, Linux infrastructure, and self-hosted environments—domains.
+I build systems with deliberate abstractions and transparent execution paths. My work focuses on Rust, Linux infrastructure, and self-hosted environments.
 
 Good software communicates intent explicitly, resists accidental complexity, and remains intelligible under scrutiny. Code is a medium of communication for humans first, a set of instructions for machines second, even on low-level setups.
 
@@ -26,11 +26,11 @@ Good software communicates intent explicitly, resists accidental complexity, and
 
 ## Highlighted Projects
 
-**[motmot]** – A powerful http3 server made to be simple and fast.
+**[motmot]** – A powerful http3 server designed for simplicity and speed.
 
-**[core_shell]** – A basic shell that focuses on modern terminal experience with speediness.
+**[core_shell]** – A basic shell that prioritizes a modern terminal experience and performance
 
-**[audium]** – A music app for terminal: aims to be your command-line audio player.
+**[audium]** – A command-line audio player built for efficiency.
 
 ---
 
