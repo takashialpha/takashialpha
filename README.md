@@ -1,88 +1,35 @@
----
+<div align="center">
+  <img src="" width="100%" alt="Banner">
+</div>
 
-<h1 align="center">takashialpha</h1>
+<h3>ABOUT ME</h3>
 
-<p align="center">
-  <em>Rust systems · Linux · Self-hosted infrastructure</em><br>
-  Writing precise, legible, and intentional systems
-</p>
+I'm a versatile developer with experience in building web platforms. \
+I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/takashialpha?style=social" />
-  <a href="mailto:takashialpha@protonmail.com">
-    <img src="https://img.shields.io/badge/email-takashialpha%40protonmail.com-blue" />
-  </a>
-</p>
 
-## Overview
 
-I work on **low-level systems and infrastructure**, with a focus on correctness, clarity, and architectural coherence.
-My projects are built around **Rust**, **Linux**, and **self-hosted environments**, where understanding the full execution path is a requirement rather than a convenience.
+<h3>EXPERIENCE</h3>
 
-I value systems that are well-written: software whose structure communicates intent, resists accidental complexity, and remains readable over time.
+I have experience working in both private companies and as a freelancer.
 
----
+I've spent most of my time as a developer working with:
 
-## Technical Focus
+- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
+- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
 
-<table>
-  <tr>
-    <td><strong>Primary language</strong></td>
-    <td>Rust — systems programming, services, internal tooling</td>
-  </tr>
-  <tr>
-    <td><strong>Scripting</strong></td>
-    <td>Bash — automation, orchestration, operational workflows</td>
-  </tr>
-  <tr>
-    <td><strong>Operating system</strong></td>
-    <td>Linux — development, servers, deployment</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Docker — containerized services and reproducible environments</td>
-  </tr>
-</table>
+I also have experience with:
 
----
+- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
+- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
+- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 
-## What I Build
+<h3>MY FRIEND</h3>
+has a message for you...
 
-* Low-level services and utilities with explicit control over behavior
-* Self-hosted systems designed for durability and observability
-* Infrastructure that emphasizes clear boundaries and predictable failure modes
-
-I primarily contribute to **my own repositories**, where architectural discipline and long-term consistency can be preserved.
-
----
-
-## Focus & Contributions
-
-I’m currently **studying systems programming and infrastructure design**, concentrating on projects that deepen my understanding of runtime internals and operational workflows.
-I mainly contribute to my **pinned or starred repositories**, ensuring every contribution reflects deliberate architecture and maintainable design.
-
----
-
-## Interests
-
-* Systems programming and runtime internals
-* Infrastructure and service architecture
-* Automation as a tool for correctness
-* Software that remains comprehensible
-
----
-
-## Design Principles
-
-* Code is a medium of communication
-* Structure should make intent explicit
-* Abstractions must justify their existence
-* A system is defined by its failure semantics
-
----
-
-## Contact
-
-**Email**: [takashialpha@protonmail.com](mailto:takashialpha@protonmail.com)
-
-<sub>The repositories speak for themselves.</sub>
+<br>
+<br>
+<div align="center">
+  <img src="" width="50%" alt="cowsay">
+</div>
+<br>
