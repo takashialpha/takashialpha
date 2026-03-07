@@ -28,7 +28,7 @@ Good software communicates intent explicitly, resists accidental complexity, and
 
 **[motmot]** – A powerful http3 server designed for simplicity and speed.
 
-**[core_shell]** – A basic shell that prioritizes a modern terminal experience and performance
+**[swagsh]** – 
 
 **[audium]** – A command-line audio player built for efficiency.
 
