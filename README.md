@@ -26,8 +26,6 @@ Good software communicates intent explicitly, resists accidental complexity, and
 
 ## Highlighted Projects
 
-**[motmot]** – A powerful http3 server designed for simplicity and speed.
-
 **[swagsh]** – A sleek, high-performance POSIX-compatible shell built in Rust for speed and reliability. Name inspired by 'swag' slang for stylish flair.
 
 **[audium]** – A command-line audio player built for efficiency.
