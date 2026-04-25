@@ -24,13 +24,11 @@ Good software communicates intent explicitly, resists accidental complexity, and
 
 ---
 
-## Highlighted Projects
-
-**[swagsh]** – A sleek, high-performance POSIX-compatible shell built in Rust for speed and reliability. Name inspired by 'swag' slang for stylish flair.
+## What I'm focusing on
 
 **[audium]** – A command-line audio player built for efficiency.
 
-- I'm also active on my starred/fixed repositories.
+- I'm also active on swagsh and other open source project.
 
 ---
 
