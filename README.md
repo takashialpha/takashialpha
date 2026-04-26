@@ -28,7 +28,7 @@ Good software communicates intent explicitly, resists accidental complexity, and
 
 **[audium]** – A command-line audio player built for efficiency.
 
-- I'm also active on swagsh and other open source project.
+- I'm also active on swagsh and other open source projects! go check my profile.
 
 ---
 
