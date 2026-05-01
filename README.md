@@ -1,39 +1,31 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=takashialpha.takashialpha" alt="visitors">
-</div>
+# hi, i'm takashialpha
 
-<div align="center">
-  <img src="./banner.png" alt="banner" width="1200"/>
-</div>
+i like building things that feel fast, clean, and make sense.
 
----
+## what i work with
 
-## Overview
+* **rust**
+  low-level stuff, terminal apps, and systems work
+  built audium, swagsh, and currently working on carboxyl
+  played around with ratatui and servo
+  contributed to cloudflare foundations
 
-I build systems with deliberate abstractions and transparent execution paths. My work focuses on Rust, Linux infrastructure, and self-hosted environments.
+* **linux**
+  daily driver for years
+  i know my way around it pretty well
 
-Good software communicates intent explicitly, resists accidental complexity, and remains intelligible under scrutiny. Code is a medium of communication for humans first, a set of instructions for machines second, even on low-level setups.
+* **docker / self-hosting**
+  used to run my own server setup
+  not active right now, but i get how things fit together
 
----
+## how i think
 
-## Technological Skills
+i care a lot about design at the system level
+i like code that stays simple, readable, and modern
+if something feels messy, i’ll probably rewrite it
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,git"/>
-</div>
+## current focus
 
----
-
-## What I'm focusing on
-
-**[audium]** – A command-line audio player built for efficiency.
-
-- I'm also active on swagsh and other open source projects! go check my profile.
-
----
-
-## Contact
-
-[![Email](https://img.shields.io/badge/email-takashialpha@protonmail.com-blue?style=for-the-badge)](mailto:takashialpha@protonmail.com)
-
-Always available for discussion on systems architecture, infrastructure design, and Rust projects.
+* building more terminal-first tools
+* exploring low-level + performance-focused projects
+* making things that actually feel good to use
