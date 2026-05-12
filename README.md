@@ -6,7 +6,7 @@ i like building things that feel fast, clean, and make sense.
 
 * **rust**
   low-level stuff, terminal apps, and systems work
-  built audium, swagsh, and currently working on carboxyl
+  built audium, swagsh, and currently a carboxyl maintainer.
   played around with ratatui and servo
   contributed to cloudflare foundations
 
