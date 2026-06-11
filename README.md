@@ -2,7 +2,7 @@
 
 # `takashialpha`
 
-<!-- the typing line below is a live SVG. it animates on github. swap the lines/color anytime. -->
+<!-- the typing line below is a live SVG. -->
 [![my tagline](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=A6E3A1&center=true&vCenter=true&width=540&height=40&lines=i+build+things+that+feel+fast%2C+clean%2C+and+make+sense.;terminal-first.+performance-focused.;if+it%27s+messy%2C+i%27ll+rewrite+it.)](https://github.com/takashialpha)
 
 </div>
