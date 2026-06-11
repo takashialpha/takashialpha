@@ -17,21 +17,20 @@ if something feels off, i'll probably rewrite it.
 
 this is where i spend most of my time: low-level code, terminal apps, and systems work.
 
-<!-- tip: link each of these to its repo, e.g. [audium](https://github.com/takashialpha/audium) -->
-- **audium**
-- **swagsh**
-- **carboxyl** &nbsp;·&nbsp; currently maintaining
+- [**audium**](https://github.com/takashialpha/audium)
+- [**swagsh**](https://github.com/takashialpha/swagsh)
+- [**carboxyl**](https://github.com/carboxyl-rs/carboxyl) &nbsp;·&nbsp; currently maintaining
 
-also poked around with **ratatui** and **servo**, and landed a few contributions in **cloudflare foundations**.
+also poked around with [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and landed a few contributions in [**cloudflare foundations**](https://github.com/cloudflare/foundations).
 
 ### 🐧 linux
 
 my daily driver for years. comfortable end to end; i know where things live, and usually why they break.
 know a lot about it: syscalls, memory management, init, filesystems, context switches.. and more.
 
-### 🐳 docker / self-hosting
+### 🌐 infrastructure
 
-used to run my own server setup. not active right now, but i understand how the pieces fit together and could spin it back up anytime.
+network infrastructure across the whole path. from backend services down to the client. routing, dns, and proxying, with containerized workloads on docker.
 
 ### how i think
 
@@ -42,14 +41,3 @@ i care about design at the *system* level. i like code that stays simple, readab
 - building more terminal-first tools
 - low-level + performance-focused projects
 - making things that actually feel good to use
-
----
-
-<div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1d1d1d?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-1d1d1d?style=flat-square&logo=docker&logoColor=2496ED)
-![Neovim](https://img.shields.io/badge/Terminal-1d1d1d?style=flat-square&logo=gnometerminal&logoColor=A6E3A1)
-
-</div>
