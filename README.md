@@ -15,17 +15,21 @@ if something feels off, i'll probably rewrite it.
 
 ### 🦀 rust — home base
 
-this is where i spend most of my time: low-level code, terminal apps, and systems work.
+this is where i spend most of my time: low-level code, terminal apps, systems work, and the occasional web thing — all in rust.
 
-- [**audium**](https://github.com/takashialpha/audium)
-- [**swagsh**](https://github.com/takashialpha/swagsh)
+- [**audium**](https://github.com/takashialpha/audium) &nbsp;·&nbsp; tui music app
+- [**swagsh**](https://github.com/takashialpha/swagsh) &nbsp;·&nbsp; an amazing shell
 - [**carboxyl**](https://github.com/carboxyl-rs/carboxyl) &nbsp;·&nbsp; currently maintaining
+- [**webpages**](https://github.com/takashialpha/webpages) &nbsp;·&nbsp; my site, built with leptos
 
 also poked around with [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and landed a few contributions in [**cloudflare foundations**](https://github.com/cloudflare/foundations).
 
+this isn't a full list — the rest lives in my [pinned repos](https://github.com/takashialpha).
+
 ### 🐧 linux
 
-my daily driver for years. comfortable end to end; i know where things live, and usually why they break.
+my daily driver for years. comfortable end to end; i know where things live, and usually why they break. these days i run my own fork of niri ([**niri-takashialpha**](https://github.com/takashialpha/niri-takashialpha)) as my compositor.
+
 know a lot about it: syscalls, memory management, init, filesystems, context switches.. and more.
 
 ### 🌐 infrastructure
