@@ -20,7 +20,7 @@ this is where i spend most of my time: low-level code, terminal apps, systems wo
 - [**audium**](https://github.com/takashialpha/audium) &nbsp;·&nbsp; tui music app
 - [**swagsh**](https://github.com/takashialpha/swagsh) &nbsp;·&nbsp; an amazing shell
 - [**carboxyl**](https://github.com/carboxyl-rs/carboxyl) &nbsp;·&nbsp; currently maintaining
-- [**webpages**](https://github.com/takashialpha/webpages) &nbsp;·&nbsp; my site, built with leptos
+- [**webpages**](https://github.com/takashialpha/webpages) &nbsp;·&nbsp; my site, built with leptos: live at [takashialpha.com](https://takashialpha.com)
 
 also poked around with [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and landed a few contributions in [**cloudflare foundations**](https://github.com/cloudflare/foundations).
 
@@ -35,6 +35,8 @@ know a lot about it: syscalls, memory management, init, filesystems, context swi
 ### 🌐 infrastructure
 
 network infrastructure across the whole path. from backend services down to the client. routing, dns, and proxying, with containerized workloads on docker.
+
+it all comes together at [**takashialpha.com**](https://takashialpha.com): serves my webpages, and occasionally other services.
 
 ### how i think
 
