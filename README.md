@@ -15,7 +15,7 @@ if something feels off, i'll probably rewrite it.
 
 ### 🦀 rust — home base
 
-this is where i spend most of my time: low-level code, terminal apps, systems work, and the occasional web thing — all in rust.
+this is where i spend most of my time: low-level code, terminal apps, systems work, and the occasional web thing. all in rust.
 
 - [**audium**](https://github.com/takashialpha/audium) &nbsp;·&nbsp; tui music app
 - [**swagsh**](https://github.com/takashialpha/swagsh) &nbsp;·&nbsp; an amazing shell
