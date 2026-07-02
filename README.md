@@ -24,7 +24,7 @@ this is where i spend most of my time: low-level code, terminal apps, systems wo
 
 also poked around with [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and landed a few contributions in [**cloudflare foundations**](https://github.com/cloudflare/foundations).
 
-this isn't a full list — the rest lives in my [pinned repos](https://github.com/takashialpha).
+this isn't a full list: the rest lives in my [pinned repos](https://github.com/takashialpha).
 
 ### 🐧 linux
 
