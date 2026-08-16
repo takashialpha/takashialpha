@@ -34,7 +34,7 @@ know a lot about it: syscalls, memory management, init, filesystems, context swi
 
 ### 🌐 infrastructure
 
-network infrastructure across the whole path. from backend services down to the client. routing, dns, and proxying, with containerized workloads on docker.
+network infrastructure across the whole path. from backend services down to the client. routing, dns, and proxying, sometimes with containerized workloads on docker.
 
 it all comes together at [**takashialpha.com**](https://takashialpha.com): serves my webpages, and occasionally other services.
 
