@@ -3,47 +3,47 @@
 # `takashialpha`
 
 <!-- the typing line below is a live SVG. -->
-[![my tagline](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=A6E3A1&center=true&vCenter=true&width=540&height=40&lines=i+build+things+that+feel+fast%2C+clean%2C+and+make+sense.;terminal-first.+performance-focused.;if+it%27s+messy%2C+i%27ll+rewrite+it.)](https://github.com/takashialpha)
+[![my tagline](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=A6E3A1&center=true&vCenter=true&width=540&height=40&lines=i+write+rust+and+live+in+a+terminal.;mostly+low-level+things%2C+on+linux.;i+rewrite+things+more+often+than+i+should.)](https://github.com/takashialpha)
 
 </div>
 
 ---
 
-systems-minded dev who basically lives in the terminal. i like low-level work, clean abstractions, and tools that feel good the second you run them. been on linux for years and i'm most at home close to the metal.
+i write systems software and spend most of the day in a terminal. low-level work is the part i actually enjoy. linux has been my only os for years now.
 
-if something feels off, i'll probably rewrite it.
+i rewrite code i don't like, which turns out to be a lot of code.
 
-### 🦀 rust — home base
+### 🦀 rust
 
-this is where i spend most of my time: low-level code, terminal apps, systems work, and the occasional web thing. all in rust.
+almost everything i write is rust: low-level code, terminal apps, systems work, and the occasional web thing.
 
 - [**audium**](https://github.com/takashialpha/audium) &nbsp;·&nbsp; tui music app
 - [**swagsh**](https://github.com/takashialpha/swagsh) &nbsp;·&nbsp; an amazing shell
 - [**carboxyl**](https://github.com/carboxyl-rs/carboxyl) &nbsp;·&nbsp; currently maintaining
 - [**webpages**](https://github.com/takashialpha/webpages) &nbsp;·&nbsp; my site, built with leptos: live at [takashialpha.com](https://takashialpha.com)
 
-also poked around with [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and landed a few contributions in [**cloudflare foundations**](https://github.com/cloudflare/foundations).
+i've also spent time in [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and got a few contributions merged into [**cloudflare foundations**](https://github.com/cloudflare/foundations).
 
-this isn't a full list: the rest lives in my [pinned repos](https://github.com/takashialpha).
+that's not everything. the rest is in my [pinned repos](https://github.com/takashialpha).
 
 ### 🐧 linux
 
-my daily driver for years. comfortable end to end; i know where things live, and usually why they break. these days i run my own fork of niri ([**niri-takashialpha**](https://github.com/takashialpha/niri-takashialpha)) as my compositor.
+my daily driver for years. i know where things live and usually why they broke. right now i run my own fork of niri ([**niri-takashialpha**](https://github.com/takashialpha/niri-takashialpha)) as my compositor.
 
-know a lot about it: syscalls, memory management, init, filesystems, context switches.. and more.
+i've dug into syscalls, memory management, init, filesystems, context switches..=and more.
 
 ### 🌐 infrastructure
 
-network infrastructure across the whole path. from backend services down to the client. routing, dns, and proxying, sometimes with containerized workloads on docker.
+i handle the whole network path myself, from backend services out to the client: routing, dns, proxying, and containerized workloads on docker when i need them.
 
-it all comes together at [**takashialpha.com**](https://takashialpha.com): serves my webpages, and occasionally other services.
+all of it runs on [**takashialpha.com**](https://takashialpha.com), which serves my webpages and a few other services.
 
 ### how i think
 
-i care about design at the *system* level. i like code that stays simple, readable, and modern. structure over cleverness, clarity over magic. clean foundations make everything after them easier.
+i think about design at the *system* level. also if i get the base wrong, everything built on top of it gets worse, so that's where i spend the time.
 
 ### what i'm focused on now
 
 - building more terminal-first tools
-- low-level + performance-focused projects
-- making things that actually feel good to use
+- low-level and performance work
+- making tools i'd actually want to use myself
