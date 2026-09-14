@@ -22,28 +22,26 @@ almost everything i write is rust: low-level code, terminal apps, systems work, 
 - [**carboxyl**](https://github.com/carboxyl-rs/carboxyl) &nbsp;·&nbsp; currently maintaining
 - [**webpages**](https://github.com/takashialpha/webpages) &nbsp;·&nbsp; my site, built with leptos: live at [takashialpha.com](https://takashialpha.com)
 
-i've also spent time in [**ratatui**](https://github.com/ratatui/ratatui) and [**servo**](https://github.com/servo/servo), and got a few contributions merged into [**cloudflare foundations**](https://github.com/cloudflare/foundations).
+i've also spent time in [**ratatui**](https://github.com/ratatui/ratatui), [**servo**](https://github.com/servo/servo), and got a few contributions merged into [**cloudflare foundations**](https://github.com/cloudflare/foundations).
 
 that's not everything. the rest is in my [pinned repos](https://github.com/takashialpha).
 
 ### 🐧 linux
 
-my daily driver for years. i know where things live and usually why they broke. right now i run my own fork of niri ([**niri-takashialpha**](https://github.com/takashialpha/niri-takashialpha)) as my compositor.
-
-i've dug into syscalls, memory management, init, filesystems, context switches..=and more.
+my daily driver for years, and one of the tools i know best.
+i run my servers on it and have spent a lot of time digging into syscalls, memory management, init, filesystems, context switches, and everything around them.
 
 ### 🌐 infrastructure
 
-i handle the whole network path myself, from backend services out to the client: routing, dns, proxying, and containerized workloads on docker when i need them.
+i handle my infrastructure end to end, from the servers and backend services all the way to the client: vps/self-hosting, routing, dns, proxying, and containers when they make sense.
 
-all of it runs on [**takashialpha.com**](https://takashialpha.com), which serves my webpages and a few other services.
+it all runs through [**takashialpha.com**](https://takashialpha.com), which hosts my webpages and a few other services.
 
 ### how i think
 
-i think about design at the *system* level. also if i get the base wrong, everything built on top of it gets worse, so that's where i spend the time.
+i like thinking about systems as a whole. if the foundation is wrong, everything built on top of it gets harder to reason about and maintain, so i tend to spend a lot of time getting the fundamentals right.
 
 ### what i'm focused on now
 
 - building more terminal-first tools
 - low-level and performance work
-- making tools i'd actually want to use myself
